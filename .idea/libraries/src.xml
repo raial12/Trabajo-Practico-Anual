@@ -2,10 +2,6 @@
   <library name="src">
     <CLASSES />
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/../jxmapviewer2-master/examples/src" />
-      <root url="file://$PROJECT_DIR$/../jxmapviewer2-master/jxmapviewer2/src/main/java" />
-      <root url="file://$PROJECT_DIR$/../jxmapviewer2-master/jxmapviewer2/src/test/java" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
